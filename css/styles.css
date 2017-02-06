@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #808080;
+  font-family: Arial, Verdana, sans-serif;
+}
+hr {
+  height: 1px;
+  margin: 0;
+}
+#menu-items {
+  margin: 15px;
+}
+#menu-items a {
+  background-color: #888888;
+  color: white;
+}
+#our-menu {
+  background-color: #888888;
+}
+#our-menu h2 {
+  margin: 0px 15px 15px;
+  background-color: #b8b800;
+}
+#our-menu section {
+  margin: 15px;
+  height: 1000px;
+  overflow: auto;
+  background-color: #00b8b8;
+}
+#our-menu section header {
+  border: 0;
+  margin-bottom: 10px;
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 1.25em;
+}
+#our-menu section p {
+  padding: 0 5px;
+}
